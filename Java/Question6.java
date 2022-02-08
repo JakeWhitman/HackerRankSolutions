@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Question6 {
     public static void main(String[] args) {
+        //Question. Java Loops II
         Scanner sc = new Scanner(System.in);
         int a, b, n, q;
         q = sc.nextInt();
